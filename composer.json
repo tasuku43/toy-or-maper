@@ -1,0 +1,12 @@
+{
+    "name": "oil/toy-or-mapper",
+    "authors": [
+        {
+            "name": "tasuku43",
+            "email": "task.teckac@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
